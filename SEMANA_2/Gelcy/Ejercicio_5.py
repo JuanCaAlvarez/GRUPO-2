@@ -17,7 +17,7 @@ match operador:
             resultado = num1 / num2
             print(f"Resultado: {resultado:.2f}")
         else:
-            print("Error: No se puede dividir entre cero ❌")
+            print("Error: No se puede dividir entre cero")
     case _:
-        print("Operador no válido ❌")
+        print("Operador no válido")
         
