@@ -20,4 +20,3 @@ match op:
             print("Error: No se puede dividir entre cero")
     case _:
         print("Operador no válido")
-        
