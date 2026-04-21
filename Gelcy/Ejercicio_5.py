@@ -1,8 +1,8 @@
 num1 = float(input("Ingresa el primer número: "))
 num2 = float(input("Ingresa el segundo número: "))
-operador = input("Ingresa el operador (+, -, *, /): ")
+op = input("Ingresa el operador (+, -, *, /): ")
 
-match operador:
+match op:
     case "+":
         resultado = num1 + num2
         print(f"Resultado: {resultado:.2f}")
@@ -17,7 +17,6 @@ match operador:
             resultado = num1 / num2
             print(f"Resultado: {resultado:.2f}")
         else:
-            print("Error: No se puede dividir entre cero ❌")
+            print("Error: No se puede dividir entre cero")
     case _:
-        print("Operador no válido ❌")
-        
+        print("Operador no válido")
