@@ -1,0 +1,17 @@
+{
+  "tienda": "Tech Store",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop HP",
+      "precio": 2500.0,
+      "stock": 8
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse Logitech",
+      "precio": 45.0,
+      "stock": 0
+    }
+  ]
+}

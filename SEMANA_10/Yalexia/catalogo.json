@@ -1,0 +1,10 @@
+{
+  "catalogo": "Librería Central",
+  "productos": [
+    {"id": 1, "nombre": "Python Crash Course",        "precio": 85.00, "stock": 15},
+    {"id": 2, "nombre": "Clean Code",                 "precio": 92.50, "stock": 8},
+    {"id": 3, "nombre": "Estructura de Datos",        "precio": 67.00, "stock": 22},
+    {"id": 4, "nombre": "Algoritmos en Python",       "precio": 78.00, "stock": 5},
+    {"id": 5, "nombre": "Bases de Datos con SQLite",  "precio": 55.00, "stock": 30}
+  ]
+}
