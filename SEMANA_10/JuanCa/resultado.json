@@ -1,0 +1,150 @@
+{
+  "Ingeniería de Sistemas": [
+    {
+      "nombre": "Lucía Flores",
+      "nota": 19.0,
+      "carrera": "Ingeniería de Sistemas",
+      "estado": "Aprobado",
+      "ranking": 1
+    },
+    {
+      "nombre": "Ana García",
+      "nota": 18.5,
+      "carrera": "Ingeniería de Sistemas",
+      "estado": "Aprobado",
+      "ranking": 2
+    },
+    {
+      "nombre": "Patricia Soto",
+      "nota": 18.0,
+      "carrera": "Ingeniería de Sistemas",
+      "estado": "Aprobado",
+      "ranking": 3
+    },
+    {
+      "nombre": "Gabriela Morales",
+      "nota": 13.0,
+      "carrera": "Ingeniería de Sistemas",
+      "estado": "Aprobado",
+      "ranking": 11
+    },
+    {
+      "nombre": "Carlos Mendoza",
+      "nota": 11.5,
+      "carrera": "Ingeniería de Sistemas",
+      "estado": "Aprobado",
+      "ranking": 13
+    },
+    {
+      "nombre": "Sebastián Paredes",
+      "nota": 6.5,
+      "carrera": "Ingeniería de Sistemas",
+      "estado": "Reprobado",
+      "ranking": 20
+    }
+  ],
+  "Contabilidad": [
+    {
+      "nombre": "Isabel Herrera",
+      "nota": 17.0,
+      "carrera": "Contabilidad",
+      "estado": "Aprobado",
+      "ranking": 4
+    },
+    {
+      "nombre": "Diego Chávez",
+      "nota": 10.5,
+      "carrera": "Contabilidad",
+      "estado": "Reprobado",
+      "ranking": 15
+    },
+    {
+      "nombre": "Miguel Ángel León",
+      "nota": 9.5,
+      "carrera": "Contabilidad",
+      "estado": "Reprobado",
+      "ranking": 16
+    },
+    {
+      "nombre": "Luis Torres",
+      "nota": 9.0,
+      "carrera": "Contabilidad",
+      "estado": "Reprobado",
+      "ranking": 17
+    }
+  ],
+  "Derecho": [
+    {
+      "nombre": "Valentina Ramos",
+      "nota": 16.5,
+      "carrera": "Derecho",
+      "estado": "Aprobado",
+      "ranking": 5
+    },
+    {
+      "nombre": "Alejandro Vega",
+      "nota": 13.5,
+      "carrera": "Derecho",
+      "estado": "Aprobado",
+      "ranking": 10
+    },
+    {
+      "nombre": "Fernando Díaz",
+      "nota": 12.5,
+      "carrera": "Derecho",
+      "estado": "Aprobado",
+      "ranking": 12
+    },
+    {
+      "nombre": "Rodrigo Huanca",
+      "nota": 11.0,
+      "carrera": "Derecho",
+      "estado": "Aprobado",
+      "ranking": 14
+    },
+    {
+      "nombre": "Sofía Vargas",
+      "nota": 7.5,
+      "carrera": "Derecho",
+      "estado": "Reprobado",
+      "ranking": 19
+    }
+  ],
+  "Administración": [
+    {
+      "nombre": "Natalia Guerrero",
+      "nota": 16.0,
+      "carrera": "Administración",
+      "estado": "Aprobado",
+      "ranking": 6
+    },
+    {
+      "nombre": "María Rodríguez",
+      "nota": 15.0,
+      "carrera": "Administración",
+      "estado": "Aprobado",
+      "ranking": 7
+    },
+    {
+      "nombre": "Camila Reyes",
+      "nota": 14.5,
+      "carrera": "Administración",
+      "estado": "Aprobado",
+      "ranking": 8
+    },
+    {
+      "nombre": "José Quispe",
+      "nota": 14.0,
+      "carrera": "Administración",
+      "estado": "Aprobado",
+      "ranking": 9
+    },
+    {
+      "nombre": "Andrés Castillo",
+      "nota": 8.0,
+      "carrera": "Administración",
+      "estado": "Reprobado",
+      "ranking": 18
+    }
+  ]
+}
