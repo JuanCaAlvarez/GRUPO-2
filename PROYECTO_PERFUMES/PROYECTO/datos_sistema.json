@@ -1,0 +1,56 @@
+{
+    "codigos": [
+        "P-001",
+        "P-002",
+        "P-003",
+        "P-004",
+        "P-005"
+    ],
+    "nombres_perfumes": [
+        "Stronger with You Intensely",
+        "Valentino Uomo Born In Roma Intense",
+        "Sauvage EDT",
+        "Erba Pura",
+        "Hawas Fire"
+    ],
+    "stock": [
+        10,
+        5,
+        5,
+        1,
+        5
+    ],
+    "precios": [
+        420.0,
+        520.0,
+        200.0,
+        840.0,
+        200.0
+    ],
+    "nombres_cli": [
+        "Gelcy",
+        "Juan"
+    ],
+    "dni_cli": [
+        "71289045",
+        "83923546"
+    ],
+    "historial_cliente": [
+        "Gelcy"
+    ],
+    "historial_dni": [
+        "71289045"
+    ],
+    "historial_perfume": [
+        "Erba Pura"
+    ],
+    "historial_cantidad": [
+        1
+    ],
+    "historial_total": [
+        840.0
+    ],
+    "historial_fecha": [
+        "24/06"
+    ]
+}
