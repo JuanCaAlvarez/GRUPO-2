@@ -1,0 +1,17 @@
+Juan Pérez,20,Ingeniería,8.5
+María García,22,Sistemas,9.2
+Carlos López,19,Matemáticas,7.8
+Ana Martínez,21,Física,9.0
+Pedro Sánchez,23,Ingeniería,6.5
+Lucía Fernández,20,Sistemas,8.9
+Diego Ramírez,22,Matemáticas,7.3
+Sofía Torres,21,Física,9.5
+Miguel Vargas,19,Ingeniería,8.1
+Valentina Cruz,24,Sistemas,7.6
+Roberto Silva,25,Ingeniería,8.7
+Camila Reyes,21,Sistemas,9.1
+Roberto Silva,25,Ingeniería,8.7
+Camila Reyes,21,Sistemas,9.1
+Percy Pardo,28,Ingeniería,9.7
+Ulises Ubillus,20,Ambiental,5.1
+

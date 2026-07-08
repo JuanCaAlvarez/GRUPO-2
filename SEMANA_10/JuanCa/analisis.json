@@ -1,0 +1,17 @@
+{
+    "analisis_alias": {
+        "id_memoria": 1338135525120,
+        "es_mismo_objeto_que_original": true,
+        "fue_afectado_por_mutacion": true
+    },
+    "analisis_copia_superficial": {
+        "id_memoria": 1338135408512,
+        "es_mismo_objeto_que_original": false,
+        "fue_afectado_por_mutacion": true
+    },
+    "analisis_deepcopy": {
+        "id_memoria": 1338136965056,
+        "es_mismo_objeto_que_original": false,
+        "fue_afectado_por_mutacion": false
+    }
+}

@@ -1,0 +1,10 @@
+001,Laptop Dell XPS,2500.00,15
+002,Mouse Logitech MX,85.50,42
+003,Teclado Mecánico,120.00,30
+004,Monitor 27 pulgadas,750.00,8
+005,Audífonos Sony WH,320.00,25
+006,Webcam Logitech C920,150.00,18
+007,SSD 1TB Samsung,200.00,35
+008,RAM 16GB Corsair,90.00,50
+009,Router WiFi 6,180.00,12
+010,Hub USB-C 7 puertos,55.00,60
